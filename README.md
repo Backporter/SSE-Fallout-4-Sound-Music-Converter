@@ -12,7 +12,7 @@ copy "at9tool.exe" and paste it into the data folder
 wile your here grab a few others for the other tools
 "orbis-image2gnf.exe" "libSceGnm.dll" "libSceGpuAddress.dll" "libSceTextureTool.dll"
 
-xWMAEncode.exe found in the DirectX SDK ("https://www.microsoft.com/en-us/download/details.aspx?id=6812")
+xWMAEncode.exe found in the DirectX SDK ("https://www.microsoft.com/en-us/download/details.aspx?id=6812") you don't need to install it, download 7zip, than right click extract this may take a few minutes than go to "Utilities\bin\x86" and copy "xWMAEncode.exe" and paste into the Data folder
 
 How to install the required files:
 
@@ -21,7 +21,9 @@ step one(1): copy all the required files to the "Data" folder
 How to use this tool:
 Get the .wav/.xwm files (or folder which contains these files).
 When adding the .wav/.xwm to the tool you have a couple of options, you can click the "Add Files" button to add multiple files by hand, you can click "Add Directory..." which will search the directory you choose for .wav/.xwm files, or you can drag the folder containing the .wav/.xwm files onto the app and it will automatically scan and detect .wav/.xwm files.
+
 (Optional) Check the checkbox below the progress bar if you would like/would not like the .wav/.xwm to be deleted after the .at9 conversion, by default this is checked.
+
 (Optional) If the .wav/.xwm is looped audio click the loop check mark next to the audio file.
 Once you have gotten the .wav/.xwm files of your choice onto the too click "Convert" and wait for it to be finished.
 Done! Now you can enjoy converted sound/music!
