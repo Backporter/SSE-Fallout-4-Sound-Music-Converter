@@ -23,6 +23,7 @@ When adding the .wav/.xwm to the tool you have a couple of options, you can clic
 (Optional) If the .wav/.xwm is looped audio click the loop check mark next to the audio file.
 Once you have gotten the .wav/.xwm files of your choice onto the too click "Convert" and wait for it to be finished.
 Done! Now you can enjoy converted sound/music!
+
 Questions and answers:
 
 Question: What is this tool for?
