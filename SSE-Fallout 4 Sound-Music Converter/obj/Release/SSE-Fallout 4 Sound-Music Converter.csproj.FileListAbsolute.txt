@@ -1,0 +1,11 @@
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\bin\Release\SSE-Fallout 4 Sound-Music Converter.exe.config
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\bin\Release\SSE-Fallout 4 Sound-Music Converter.exe
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\bin\Release\SSE-Fallout 4 Sound-Music Converter.pdb
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE-Fallout 4 Sound-Music Converter.csprojAssemblyReference.cache
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE_Fallout_4_Sound_Music_Converter.Credits.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE_Fallout_4_Sound_Music_Converter.Main.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE_Fallout_4_Sound_Music_Converter.Properties.Resources.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE-Fallout 4 Sound-Music Converter.csproj.GenerateResource.cache
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE-Fallout 4 Sound-Music Converter.csproj.CoreCompileInputs.cache
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE-Fallout 4 Sound-Music Converter.exe
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Release\SSE-Fallout 4 Sound-Music Converter.pdb
