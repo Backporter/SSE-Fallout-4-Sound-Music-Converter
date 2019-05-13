@@ -258,7 +258,7 @@ namespace SSE_Fallout_4_Sound_Music_Converter
             /// this is what shows the messege after the converion is done
             if (progressBar1.Value == progressBar1.Maximum)
             {
-                MessageBox.Show("Your Voice Dialouge is converted!", "Finished!");
+                MessageBox.Show("Your Sound and Music is converted!", "Finished!");
             }
         }
 
