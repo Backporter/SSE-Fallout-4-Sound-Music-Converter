@@ -9,3 +9,4 @@ C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallo
 C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Debug\SSE-Fallout 4 Sound-Music Converter.csproj.CoreCompileInputs.cache
 C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Debug\SSE-Fallout 4 Sound-Music Converter.exe
 C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Debug\SSE-Fallout 4 Sound-Music Converter.pdb
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Sound-Music Converter\SSE-Fallout 4 Sound-Music Converter\obj\Debug\SSE_Fallout_4_Sound_Music_Converter.WAV_XWM.resources

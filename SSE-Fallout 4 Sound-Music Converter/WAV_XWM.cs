@@ -17,16 +17,16 @@ using System.Runtime.InteropServices;
 
 namespace SSE_Fallout_4_Sound_Music_Converter
 {
-    public partial class Main : Form
+    public partial class WAV_XWM : Form
     {
         private List<string> filePaths = new List<string>();
 
-        public Main()
+        public WAV_XWM()
         {
             InitializeComponent();
         }
 
-        private void Main_Load(object sender, EventArgs e)
+        private void WAV_XWM_Load(object sender, EventArgs e)
         {
             ///this will create the working dirtory
             Directory.CreateDirectory("wav");
@@ -258,11 +258,11 @@ namespace SSE_Fallout_4_Sound_Music_Converter
             /// this is what shows the messege after the converion is done
             if (progressBar1.Value == progressBar1.Maximum)
             {
-                MessageBox.Show("Your Sound and Music is converted!", "Finished!");
+                MessageBox.Show("Your Voice Dialouge is converted!", "Finished!");
             }
         }
 
-        private void Main_FormClosed(object sender, FormClosedEventArgs e)
+        private void WAV_XWM_FormClosed(object sender, FormClosedEventArgs e)
         {
             /// this cleans and deletes the working directory
             /// it cleans it as it will have wav files left over form XWM to wav
@@ -273,16 +273,6 @@ namespace SSE_Fallout_4_Sound_Music_Converter
                 file.Delete();
             }
             System.IO.Directory.Delete("wav");
-        }
-
-        private void WAVFIX_Click(object sender, EventArgs e)
-        {
-            /// this is going to open the credits window
-            if (Application.OpenForms["WAVFIX"] == null)
-            {
-                WAV_XWM form = new WAV_XWM();
-                form.Show();
-            }
         }
     }
 }
