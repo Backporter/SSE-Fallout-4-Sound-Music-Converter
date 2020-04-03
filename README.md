@@ -27,18 +27,23 @@ Done! Now you can enjoy converted sound/music!
 Questions and answers:
 
 Question: What is this tool for?
+
 answer: This tool converters .wav/.xwm files to AT9(ATRAC9)
 
 Question: Do I need to use .at9?
+
 answer: Yes, .wav/.xwm will NOT play for Skyrim or Fallout 4 on PS4.
 
 Question: This tool just produces a .at9 with 0 bytes, what happened?
+
 answer: Rarely the tool can fail converting a .wav/.xwm, in this scenario I recommend to re-process the .wav and try again. If there is failure turning the .xwm into a .wav then it may not actually be a .xwm file.
 
 Question: Do I need to rename the .at9 file back to .wav/.xwm?
+
 answer: NO, this is not needed.
 
 Question: What is the loop check mark next to the .wav/.xwm files?
+
 answer: Certain audio files loop in mods, if you find the .wav/.xwm file says "loop" then good chance it loops the audio and that check mark would need to be checked.
 
 You are done use the tool as you wish
